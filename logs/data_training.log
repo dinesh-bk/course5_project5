@@ -1,0 +1,14 @@
+2024-08-05 04:51:37,226 - INFO - Loading configuration file
+2024-08-05 04:51:37,226 - INFO - Configuration file loaded successfully
+2024-08-05 04:51:37,226 - INFO - Training dataset path: ingesteddata/finaldata.csv
+2024-08-05 04:51:37,226 - INFO - Starting data preprocessing
+2024-08-05 04:51:37,230 - INFO - Data preprocessing completed
+2024-08-05 04:51:37,230 - INFO - Starting model training process
+2024-08-05 04:51:37,230 - INFO - Initializing logistic regression model
+2024-08-05 04:51:37,230 - INFO - Training the model
+2024-08-05 04:51:37,231 - INFO - Model training completed
+2024-08-05 04:51:37,231 - INFO - Preparing to save the trained model
+2024-08-05 04:51:37,232 - INFO - Checking for model saving directory
+2024-08-05 04:51:37,232 - INFO - Saving model to models/trainedmodel.pkl
+2024-08-05 04:51:37,232 - INFO - Model successfully saved as models/trainedmodel.pkl
+2024-08-05 04:51:37,232 - INFO - Model training process completed

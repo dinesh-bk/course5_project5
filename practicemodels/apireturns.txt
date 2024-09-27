@@ -1,0 +1,51 @@
+prediction:
+{
+  "predictions": [
+    0, 
+    1, 
+    1, 
+    1, 
+    1
+  ]
+}
+
+
+scoring:
+0.7647058823529413
+
+summarystats:
+{
+  "lastmonth_activity": {
+    "mean": 165.65384615384616, 
+    "median": 73.0, 
+    "std": 284.0332293669447
+  }, 
+  "lastyear_activity": {
+    "mean": 1502.923076923077, 
+    "median": 955.0, 
+    "std": 2192.6449584568304
+  }, 
+  "number_of_employees": {
+    "mean": 26.884615384615383, 
+    "median": 14.0, 
+    "std": 31.353885785435814
+  }
+}
+
+
+diagnostics:
+{
+  "execution_time": {
+    "ingestion_time": 0.4955154249910265, 
+    "training_time": 1.1979855700046755
+  }, 
+  "na_percentage": {
+    "corporation": 0.0, 
+    "exited": 0.0, 
+    "lastmonth_activity": 0.0, 
+    "lastyear_activity": 0.0, 
+    "number_of_employees": 0.0
+  }
+}
+
+
